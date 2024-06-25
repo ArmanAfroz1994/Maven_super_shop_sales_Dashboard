@@ -25,4 +25,5 @@ and there are more KPIs where we can find valuable insights.
 
 Conclusions: Summing up my project findings! 💡💼 Key takeaways reveal strong preferences for Cash on Delivery, top-performing categories like Phones and Chairs, and profit peaks in March, October, and December. Excited to leverage these insights for smarter business decisions! 📈🚀
 
-PROJRCT LINK - https://app.powerbi.com/view?r=eyJrIjoiMTA2NzE5M2QtOTJlZS00N2IyLThjNTUtMzJjZjNiMTZkZTExIiwidCI6IjNiMTFmMTdkLTgzMzMtNDY2ZS04ZGNmLTA2MzQyNWU5MDlkNyJ9
+PROJRCT LINK - https://app.powerbi.com/groups/me/reports/6b7c626b-bf3b-4855-9fb6-a4e01175c148/ReportSection?experience=power-bi
+
